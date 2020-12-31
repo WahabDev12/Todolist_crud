@@ -9,11 +9,6 @@ A Simple Todolist application with crud functionality. Made using Flask,HTML,CSS
 
 -- pip install flask_sqlalchemy
 
-⭐Run this command in your terminal⭐
-
-⭐Create two folders⭐ 1.templates 2. static
-
-✔Move --index.html-- to templates ✔Move -- style.css bootstrap.min.css and img-- to static
 
 ⭐Run flask app in terminal⭐
 
