@@ -7,7 +7,7 @@ A Simple Todolist application with crud functionality. Made using Flask,HTML,CSS
 
 🛠Install the following module🛠
 
--- pip install flask_sqlalchemy
+-- pip install flask_sqlalchemy --
 
 
 ⭐Run flask app in terminal⭐
