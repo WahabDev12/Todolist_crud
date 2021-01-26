@@ -1,17 +1,24 @@
 # Todolist_crud
-A Simple Todolist application with crud functionality. Made using Flask,HTML,CSS,JavaScript
+## A Simple Todolist application with crud functionality. Made using Flask,HTML,CSS,JavaScript
 
-🛠Install flask using the command🛠
+### Install flask
 
--- pip install flask --
+```
+pip install flask
+```
 
-🛠Install the following module🛠
+### Install SQLAlchemy
+```
+pip install flask_sqlalchemy
 
--- pip install flask_sqlalchemy --
+```
 
 
-⭐Run flask app in terminal⭐
+### Run Flask App
 
--- Type python app.py ---
+```
+python app.py
 
-Or click on RUN ▶️ to start the application.
+```
+
+### Or click on RUN ▶️ to start the application.
